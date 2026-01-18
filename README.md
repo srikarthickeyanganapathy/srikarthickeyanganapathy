@@ -34,19 +34,6 @@ Hello! I’m Sri Karthickeyan, a backend-focused full-stack developer from Chenn
   * Built scalable REST APIs and optimized persistence layer
   * Live: [https://tasksflowstf.netlify.app/login](https://tasksflowstf.netlify.app/login)
 
-* **[Decentralized Predictive Maintenance](https://github.com/srikarthickeyanganapathy/Decentralized-Predictive-Maintenance)**
-
-  * Node.js + Ethereum platform for immutable maintenance records and predictive insights
-  * Built authentication and equipment log services
-  * Integrated smart contracts for tamper-proof maintenance history
-  * Live: [https://decentralized-predictive-maintenance-gjua.vercel.app/](https://decentralized-predictive-maintenance-gjua.vercel.app/)
-
-* **[Digital Gold / AUG Token Platform](https://github.com/srikarthickeyanganapathy/Aug_project_backend)**
-
-  * Spring Boot + Web3j on Polygon for tokenized assets
-  * Implemented secure minting and FIFO redemption logic
-  * Integrated Razorpay for fiat-to-token purchases
-
 * **[Room Management System](https://github.com/srikarthickeyanganapathy/RoomManagement)**
 
   * Spring Boot + React application with RBAC and Cloudinary integration
