@@ -88,19 +88,19 @@ Hello! I’m Sri Karthickeyan, a backend-focused full-stack developer from Chenn
   <img src="https://github-trophies.vercel.app/?username=srikarthickeyanganapathy&theme=dracula&no-frame=false&no-bg=false&margin-w=4">
 </div>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats </b>
+# <img src="Assets_Used/Gifs/HeadGifs/sparkles.gif" width="40px">**Github Stats:**
 
-<br />
 <table width="100%" align="center">
 <tr>
 <td>
-  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=srikarthickeyanganapathy&show_icons=true&locale=en&theme=ambient_gradient" alt="GitHub Stats"/>
+  <!-- For Github Stats -->
+  <img width="420" src="https://github-readme-stats.vercel.app/api?username=srikarthickeyanganapathy&show_icons=true&theme=radical&count_private=true&disable_animations=false&hide_border=false" height="176" alt="Sri Karthickeyan GitHub stats"/>
 </td>
 <td>
-  <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=srikarthickeyanganapathy&theme=ambient_gradient" alt="Streak Stats"/>
+  <!-- Most Languages Used -->
+  <img width="320" src="https://github-readme-stats.vercel.app/api/top-langs?username=srikarthickeyanganapathy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=radical&hide_border=false&order=2" height="175" alt="languages graph"  />
 </td>
 </tr>
 </table>
-<br />
 
 *Feel free to connect via Email, GitHub, or LinkedIn. Thanks for visiting!*
