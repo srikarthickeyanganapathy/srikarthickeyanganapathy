@@ -1,35 +1,50 @@
-<h1 align="center">Hi 👋, I'm Sri Karthickeyan Ganapathy</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+# Sri Karthickeyan Ganapathy
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=srikarthickeyanganapathy&label=Profile%20views&color=0e75b6&style=flat" alt="srikarthickeyanganapathy" /> </p>
+**Backend-Focused Full-Stack Developer | Software Engineer in Progress**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srikarthickeyanganapathy" alt="srikarthickeyanganapathy" /></a> </p>
+Hello! I’m Sri Karthickeyan, a backend-focused full-stack developer from Chennai who enjoys building scalable systems and clean APIs. I’m passionate about turning real-world problems into reliable, production-ready software while continuously learning and improving.
 
-<p align="left"> <a href="https://twitter.com/srikarthic2224" target="blank"><img src="https://img.shields.io/twitter/follow/srikarthic2224?logo=twitter&style=for-the-badge" alt="srikarthic2224" /></a> </p>
+## About Me
 
-- 🌱 I’m currently learning **fullstack Technologies**
+🔹 **Backend Engineering:** Designing REST APIs and microservices using Spring Boot and Node.js for scalable, maintainable systems.
+🔹 **Full-Stack Development:** Building end-to-end applications with React, Spring Boot, and SQL databases.
+🔹 **Data & Systems:** Working with relational and NoSQL databases to design efficient schemas and data flows.
+🔹 **Automation & Cloud:** Exploring Docker, CI/CD, and AWS to ship faster and more reliably.
 
-- 💬 Ask me about **react, vite, springboot**
+## Skills
 
-- 📫 How to reach me **srikarthcikeyanganapathy@gmail.com**
-
-- ⚡ Fun fact **I like to learn new things.**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/srikarthic2224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="srikarthic2224" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/sri-karthickeyan-ganapathy-597773261/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/sri-karthickeyan-ganapathy-597773261/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/srikarthickeyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/srikarthickeyan" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/hackerrank.com/profile/srikarthcikeyan1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank.com/profile/srikarthcikeyan1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/leetcode.com/u/srikarthickeyan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode.com/u/srikarthickeyan/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/srikarthcikeykxfy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/srikarthcikeykxfy/" height="30" width="40" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="40" height="40" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+## Featured Projects
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srikarthickeyanganapathy&show_icons=true&locale=en&layout=compact" alt="srikarthickeyanganapathy" /></p>
+* **Smart Agriculture Monitoring System (SAMS):** Microservices platform with Spring Boot, React, and MySQL for agricultural analytics.
+  Live: [https://smart-agri-tech-sams.netlify.app](https://smart-agri-tech-sams.netlify.app)
+* **Task Management System:** Full-stack task tracking application with a React frontend and Spring Boot backend.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srikarthickeyanganapathy&show_icons=true&locale=en" alt="srikarthickeyanganapathy" /></p>
+  * Frontend: [https://github.com/srikarthickeyanganapathy/task-system-frontend](https://github.com/srikarthickeyanganapathy/task-system-frontend)
+  * Backend: [https://github.com/srikarthickeyanganapathy/task-system-backend](https://github.com/srikarthickeyanganapathy/task-system-backend)
+* **Decentralized Predictive Maintenance:** Node.js + Ethereum for immutable maintenance records and predictive insights.
+  Live: [https://decentralized-predictive-maintenance-gjua.vercel.app/](https://decentralized-predictive-maintenance-gjua.vercel.app/)
+* **Digital Gold / AUG Token Platform:** Spring Boot + Web3j on Polygon for tokenized assets with secure minting and redemption.
+* **Room Management System:** Spring Boot + React with RBAC and Cloudinary integration.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srikarthickeyanganapathy&" alt="srikarthickeyanganapathy" /></p>
+## GitHub Trophies
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=srikarthickeyanganapathy&theme=flat&no-frame=true&column=7" />
+</p>
+
+If you’re interested in collaborating or hiring, feel free to reach out!
