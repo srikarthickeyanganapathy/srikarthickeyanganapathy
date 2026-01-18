@@ -34,12 +34,12 @@ Hello! I’m Sri Karthickeyan, a backend-focused full-stack developer from Chenn
   * Built scalable REST APIs and optimized persistence layer
   * Live: [https://tasksflowstf.netlify.app/login](https://tasksflowstf.netlify.app/login)
 
-* **[Room Management System](https://github.com/srikarthickeyanganapathy/RoomManagement)**
+* **[Decentralized Predictive Maintenance](https://github.com/srikarthickeyanganapathy/Decentralized-Predictive-Maintenance)**
 
-  * Spring Boot + React application with RBAC and Cloudinary integration
-  * Layered architecture (Controller/Service/Repository)
-  * Image storage and access control for admin workflows
-
+  * Node.js + Ethereum platform for immutable maintenance records and predictive insights
+  * Built authentication and equipment log services
+  * Integrated smart contracts for tamper-proof maintenance history
+  * Live: [https://decentralized-predictive-maintenance-gjua.vercel.app/](https://decentralized-predictive-maintenance-gjua.vercel.app/)
 ---
 
 ## Technologies & Tools
@@ -84,8 +84,23 @@ Hello! I’m Sri Karthickeyan, a backend-focused full-stack developer from Chenn
 
 ## GitHub Trophies
 
-<div align="left">
-  <img src="https://github-trophies.vercel.app/?username=srikarthickeyanganapathy&theme=flat&no-frame=true&no-bg=false&margin-w=4">
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username=srikarthickeyanganapathy&theme=dracula&no-frame=false&no-bg=false&margin-w=4">
 </div>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats </b>
+
+<br />
+<table width="100%" align="center">
+<tr>
+<td>
+  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=srikarthickeyanganapathy&show_icons=true&locale=en&theme=ambient_gradient" alt="GitHub Stats"/>
+</td>
+<td>
+  <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=srikarthickeyanganapathy&theme=ambient_gradient" alt="Streak Stats"/>
+</td>
+</tr>
+</table>
+<br />
 
 *Feel free to connect via Email, GitHub, or LinkedIn. Thanks for visiting!*
